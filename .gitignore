@@ -1,1 +1,6 @@
-data/
+data/jupyter
+data
+.venv
+.ipynb_checkpoints
+.idea
+.
